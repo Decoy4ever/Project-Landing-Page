@@ -85,6 +85,17 @@ li a{
     align-items: center;
 }
 
+.container-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.place-holder-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .place-holder-content{
     border-style: solid;
