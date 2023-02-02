@@ -67,8 +67,40 @@ li a{
     align-content: center;
     padding: 32px;
 }
-
 /* End Header Here */
+
+/*Main content here*/
+
+.container-body{
+    background-color: #F9FAF8;
+    color: #1F2937;
+}
+
+.container-title{
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.place-holder-content{
+    border-style: solid;
+    border-color: #3882F6;
+    width: 100px;
+    height: 100px;
+}
+/*End of content here*/
+
+button{
+    width: 70px;
+    height: 30px;
+    background-color: #3882F6;
+    color:#F9FAF8;
+    margin-top: 5px;
+}
 
 footer{
     margin-top: auto;
